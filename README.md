@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/matheus-henrique-110074202"><i>Matheus Henrique</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a target="_blank" href="https://www.linkedin.com/in/matheus-henrique-110074202"><i>Matheus Henrique</i></a> 😃️</h1>
 </div>
 
 <div align="center">
