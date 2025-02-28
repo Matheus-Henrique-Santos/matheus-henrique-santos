@@ -19,14 +19,14 @@
         <h2>🛠️ My Favorite Tools 🛠️</h2>
    <p>
         <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
-        <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+        <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
         <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" />
    </p>
    <p>
         <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?logo=google-cloud">
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-316192.svg?logo=mysql&logoColor=white">
-        <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
         <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?&logo=nginx&logoColor=white">
         <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white">
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
@@ -37,7 +37,7 @@
         <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
         <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=Linux">
         <img alt="Spotify" src="https://img.shields.io/badge/Spotify-000.svg?logo=spotify&logoColor=1ED760">
-        <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
    </p>
 
 <img alt="ProfileVisits" src="https://komarev.com/ghpvc/?username=Matheus-Henrique-Santos&label=Profile%20Visits&color=blue&style=for-the-badge">
