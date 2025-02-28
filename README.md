@@ -12,7 +12,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a4ef&height=120&section=header" alt="ondas"/>
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=edsuuu&theme=windows-dark&border_radius=5&locale=en&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Matheus-Henrique-Santos&theme=windows-dark&border_radius=5&locale=en&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
@@ -47,21 +47,15 @@
 
    </p>
 
-<img alt="ProfileVisits" src="https://komarev.com/ghpvc/?username=edsuuu&label=Profile%20Visits&color=blue&style=for-the-badge">
-<img src="https://wakatime.com/badge/user/20525642-7f6a-44d2-aa9f-b243c764fc51.svg?&color=blue&style=for-the-badge" alt="wakatime">
-
-<div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=20525642-7f6a-44d2-aa9f-b243c764fc51&layout=compact&theme=github_dark&border_color=00a4ef&bg_color=000000&"
-            alt="Wakatime">
-</div>
+<img alt="ProfileVisits" src="https://komarev.com/ghpvc/?username=Matheus-Henrique-Santos&label=Profile%20Visits&color=blue&style=for-the-badge">
 
 <div align="center">
    <h2>⚡️ Daily Commits ⚡️</h2>
    <a href="https://github.com/CatsJuice/ssr-contributions-img">
     <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/edsuuu?chart=3dbar&gap=0.6&scale=3&gradient=true&flatten=0&animation=wave&animation_duration=3&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=50&theme=blue&dark=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/edsuuu?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=blue">
-            <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/edsuuu?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink](https://ssr-contributions-svg.vercel.app/_/edsuuu?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=blue)">
+            <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Matheus-Henrique-Santos?chart=3dbar&gap=0.6&scale=3&gradient=true&flatten=0&animation=wave&animation_duration=3&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=50&theme=blue&dark=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Matheus-Henrique-Santos?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=blue">
+            <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/Matheus-Henrique-Santos?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink](https://ssr-contributions-svg.vercel.app/_/Matheus-Henrique-Santos?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=blue)">
     </picture>
     </a>
 </div>
